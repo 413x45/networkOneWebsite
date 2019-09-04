@@ -1,0 +1,72 @@
+/*  Navigation Bar Styling */
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+#navbar ul, #navbar ul li {
+    float: none;
+}
+#navbar ul li a {
+    padding: 5px;
+    border-bottom: #444 dotted 1px;
+}
+
+/* Showcase Styling */
+#showcase {
+    height: 100%;
+}
+#showcase .showcase-content {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+/* Home Info Styling */
+#home-info .info-img {
+    display: none;
+    /* this is removing the image completely */
+}
+#home-info .info-content {
+    float: none;
+    width: 100%;
+}
+
+/* Services Styling */
+.box {
+    float: none;
+    width: 100%;
+}
+
+/* Map & Contact Info Styling */
+#location {
+    height: 900px;
+    margin: auto;
+}
+#location .map {
+    float: none;
+    width: 100%;
+}
+#location .contact-info {
+    float: none;
+    width: 100%;
+    padding: 50px;
+}
+
+/* About Information Styling */
+#about-info .info-right, 
+#about-info .info-left {
+    float: none;
+    width: 100%;
+}
+#about-info .info-right {
+    margin-top: 30px;
+}
+.l-heading {
+    text-align: center;
+}
+
+/* Contact Styling */
+#contact-info .box {
+    border-bottom: #444 dotted 1px;
+}
+
+
