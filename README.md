@@ -1,0 +1,5 @@
+This is the "hotel website" from the Udemy course: <a href="https://www.udemy.com/course/modern-html-css-from-the-beginning/">Modern HTML and CSS from the Beginning</a>
+
+I modified it to resemble a real company whos website I wanted to remake.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/day77?src=hash&amp;ref_src=twsrc%5Etfw">#day77</a> of <a href="https://twitter.com/hashtag/100daysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100daysOfCode</a> 🛠️<br>I finished the &quot;hotel website&quot; section today! I am doing my own spin on it and adding another page, so I still have a little bit more work to do, but I really like how it is coming along, so fun to play with... <a href="https://t.co/QUn1Q7fYYl">pic.twitter.com/QUn1Q7fYYl</a></p>&mdash; alexas ツ (@hiimalexas) <a href="https://twitter.com/hiimalexas/status/1163566981490053120?ref_src=twsrc%5Etfw">August 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
